@@ -1,0 +1,5 @@
+flask
+opencv-python
+pandas
+sqlite3 (part of standard lib)
+numpy
